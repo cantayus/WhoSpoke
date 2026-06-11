@@ -404,8 +404,6 @@ Future full-backend results will look like this:
 ```
 
 The JSON output includes per-segment fields such as `speaker_id`, `speaker_name`, `confidence`, `evidence_scores`, and `algorithm_trace`.
-
----
 ```
 
 ---
