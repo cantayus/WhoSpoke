@@ -406,27 +406,6 @@ Future full-backend results will look like this:
 The JSON output includes per-segment fields such as `speaker_id`, `speaker_name`, `confidence`, `evidence_scores`, and `algorithm_trace`.
 
 ---
-
-## Project files
-
-A minimal package layout looks like this:
-
-```text
-WhoSpoke/
-  pyproject.toml
-  README.md
-  src/
-    WhoSpoke/
-      __init__.py
-      backend_registry.py
-      cli.py
-      config.py
-      pipeline.py
-      schemas.py
-  tests/
-    conftest.py
-    test_config.py
-    test_schemas.py
 ```
 
 ---
