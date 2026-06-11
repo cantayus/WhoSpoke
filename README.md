@@ -236,6 +236,10 @@ pip install -e ".[dev]"
 
 Imagine a video of a multilingual press conference where two leaders switch between French, German, and English. We want a timestamped transcript with named speakers.
 
+### Our Subjects
+
+For demonstration purposes, WhoSpoke can be initialized with reference portraits and short voice samples for each known speaker. In this example, we use two public political figures in a multilingual diplomatic summit scenario.
+
 <p align="center">
   <img src="assets/macron.jpg" alt="Emmanuel Macron" width="240"/>
   <img src="assets/scholz.jpg" alt="Olaf Scholz" width="240"/>
