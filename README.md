@@ -240,15 +240,20 @@ Imagine a video of a multilingual press conference where two leaders switch betw
 
 For demonstration purposes, WhoSpoke can be initialized with reference portraits and short voice samples for each known speaker. In this example, we use two public political figures in a multilingual diplomatic summit scenario.
 
-<p align="center">
-  <img src="assets/macron.jpg" alt="Emmanuel Macron" width="240"/>
-  <img src="assets/scholz.jpg" alt="Olaf Scholz" width="240"/>
-</p>
-
-<p align="center">
-  <strong>Emmanuel Macron</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Olaf Scholz</strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="assets/macron.jpg" alt="Emmanuel Macron" width="240">
+      <br>
+      <strong>Emmanuel Macron</strong>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/scholz.jpg" alt="Olaf Scholz" width="240">
+      <br>
+      <strong>Olaf Scholz</strong>
+    </td>
+  </tr>
+</table>
 
 ### Step 1: Prepare `people.yaml`
 
