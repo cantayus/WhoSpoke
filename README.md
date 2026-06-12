@@ -243,6 +243,19 @@ pip install -e ".[dev]"
 
 Imagine a video of a multilingual press conference where two leaders switch between French and English. We want a timestamped transcript with named speakers.
 
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="assets/macron.jpg" alt="Emmanuel Macron" width="200"><br>
+      <strong>Emmanuel Macron</strong>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/trump.jpg" alt="Donald J. Trump" width="200"><br>
+      <strong>Donald J. Trump</strong>
+    </td>
+  </tr>
+</table>
+
 ### Step 1: Prepare `people.yaml`
 
 This example enrolls only Emmanuel Macron and Donald J. Trump.
