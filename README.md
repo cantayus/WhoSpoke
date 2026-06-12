@@ -4,8 +4,6 @@ WhoSpoke is a multimodal speaker identification and transcription library for vi
 
 The package combines automatic speech recognition, speaker diarization, face recognition, active‑speaker detection, voice matching, and evidence fusion to produce named, timestamped transcripts with transparent confidence scores.
 
-> **Current status:** WhoSpoke provides validated configuration models, a rich CLI, export schemas, and a registry of algorithm families.  Beginning with version 0.1.4, the pipeline will attempt to install and invoke selected backends automatically.  When you choose a supported ASR, diarization, face recognition or voice‑matching backend, the library tries to import its Python dependencies and will install them on the fly if they are missing.  If a backend cannot be imported or is not yet implemented, WhoSpoke gracefully falls back to a mock result and issues a warning.  This allows you to experiment with real models by simply specifying your desired backends while keeping the base installation lightweight.
-
 ---
 
 ## Why WhoSpoke?
