@@ -247,11 +247,11 @@ Imagine a video of a multilingual press conference where two leaders switch betw
   <tr>
     <td align="center" width="300">
       <img src="assets/macron.jpg" alt="Emmanuel Macron" width="200"><br>
-      <strong>Person A</strong>
+      <strong>Emmanuel Macron</strong>
     </td>
     <td align="center" width="300">
       <img src="assets/scholz.jpg" alt="Olaf Scholz" width="200"><br>
-      <strong>Person B</strong>
+      <strong>Olaf Scholz</strong>
     </td>
   </tr>
 </table>
